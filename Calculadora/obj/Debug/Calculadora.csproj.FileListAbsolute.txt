@@ -1,0 +1,21 @@
+C:\Users\Micro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Micro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Micro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Micro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\maule\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.pdb
